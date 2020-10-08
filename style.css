@@ -1,1 +1,9 @@
-ECHO is on.
+body
+{
+    background:magenta;
+}
+.container
+{
+    width:96%;
+    background:blue;
+}
